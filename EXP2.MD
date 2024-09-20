@@ -21,25 +21,25 @@ Algorithm:
 r1, c1 = input("Enter row and column count in matrix 1: ").split()
 r2, c2 = input("Enter row and column count in matrix 2: ").split()
 
-# Initialize matrices and result matrix
+
 matrix1 = []
 matrix2 = []
 result = []
 
-# Check if the inputs are numeric
+
 if r1.isnumeric() and c1.isnumeric() and r2.isnumeric() and c2.isnumeric():
     r1 = int(r1)
     r2 = int(r2)
     c1 = int(c1)
     c2 = int(c2)
 
-    # Check if matrix multiplication is possible
+    
     if c1 != r2:
         print("Matrix multiplication not possible (columns of matrix 1 must equal rows of matrix 2)")
     elif max(r1, c1, r2, c2) > 20 or min(r1, c1, r2, c2) == 0:
         print("Matrix multiplication not possible (size constraint or zero dimension)")
     else:
-        # Input elements for matrix1
+        
         print("Enter elements for matrix 1:")
         for i in range(r1):
             a = []
@@ -47,7 +47,7 @@ if r1.isnumeric() and c1.isnumeric() and r2.isnumeric() and c2.isnumeric():
                 a.append(int(input(f"Element [{i}][{j}]: ")))
             matrix1.append(a)
 
-        # Input elements for matrix2
+       
         print("Enter elements for matrix 2:")
         for i in range(r2):
             a = []
@@ -55,11 +55,10 @@ if r1.isnumeric() and c1.isnumeric() and r2.isnumeric() and c2.isnumeric():
                 a.append(int(input(f"Element [{i}][{j}]: ")))
             matrix2.append(a)
 
-        # Initialize result matrix with zeros
         for i in range(r1):
             result.append([0] * c2)
 
-        # Perform matrix multiplication
+       
         for i in range(r1):
             for j in range(c2):
                 sum = 0
@@ -67,7 +66,7 @@ if r1.isnumeric() and c1.isnumeric() and r2.isnumeric() and c2.isnumeric():
                     sum += matrix1[i][k] * matrix2[k][j]
                 result[i][j] = sum
 
-        # Print the result matrix
+   
         print("Resultant Matrix after multiplication:")
         for i in range(r1):
             for j in range(c2):
