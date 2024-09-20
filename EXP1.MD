@@ -33,7 +33,7 @@ def display():
   print("Enter a valid positive number.",)
 display()
 ```
-###b)b) while…do
+###b) while…do
 ```
 start=input("Enter a positive value for START: ") 
 end=input("Enter a positive value for END: ")
