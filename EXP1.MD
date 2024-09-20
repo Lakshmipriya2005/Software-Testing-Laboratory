@@ -33,7 +33,7 @@ def display():
   print("Enter a valid positive number.",)
 display()
 ```
-###b) while…do
+### b) while…do
 ```
 start=input("Enter a positive value for START: ") 
 end=input("Enter a positive value for END: ")
@@ -47,7 +47,7 @@ if start.isnumeric() and end.isnumeric():
 else: 
  print("Enter a valid positive number.")
 ```
-###c) if …else 
+### c) if …else 
 ```
 def compare(): 
     a = input("Enter a value for A: ") 
@@ -69,7 +69,7 @@ def compare():
 compare()
 
 ```
-###d)switch
+### d)switch
 ```
 def check_odd_even(): 
     switcher = { 
@@ -88,7 +88,7 @@ def check_odd_even():
 check_odd_even()
 
 ```
-###e)for
+### e)for
 ```
 def iterate(): 
  string=input("Enter a string: ") 
