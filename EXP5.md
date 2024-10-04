@@ -1,3 +1,6 @@
+# EX NO: 5 Write a program in Python language to search a given element is present in the list using Binary search. Introspect the causes for its failure and write down the possible reasons for its failure.
+# DATE:27.09.2024
+# REGISTER NUMBER:212222040085
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
@@ -65,6 +68,7 @@ except ValueError:
 
 ### Output:
 
+![image](https://github.com/user-attachments/assets/534f6b1c-52d1-4c77-9a01-885fbcad1ed7)
 
 
 ### Result:
