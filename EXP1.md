@@ -112,6 +112,28 @@ iterate()
 ### Output:
 
 
+### a) do…while
+![image](https://github.com/user-attachments/assets/6af9b788-5e56-453f-887e-b4995602a12a)
+![image](https://github.com/user-attachments/assets/d962af1b-f22b-4073-9d4e-36e5104eefcd)
+
+
+### b) while…do
+![image](https://github.com/user-attachments/assets/39e14987-f626-42a4-9758-5962ac5f1d33)
+![image](https://github.com/user-attachments/assets/fa361c0b-b5c0-4728-a907-f5c28f557f3d)
+
+
+
+### c) if …else 
+![image](https://github.com/user-attachments/assets/b1b6aaca-9b6f-4723-90e2-d166ce411bb7)
+
+
+
+### d)switch
+![image](https://github.com/user-attachments/assets/99913595-47a5-497d-a62f-818c195c8c8a)
+
+### e)for
+![image](https://github.com/user-attachments/assets/9c545a28-60ca-4595-bfab-c17180151b16)
+
 
 
 
