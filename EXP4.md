@@ -50,6 +50,7 @@ else:
 
 
 ### Output:
+![image](https://github.com/user-attachments/assets/3aea3f22-8e37-47d2-8802-0acefca461ba)
 
 
 
