@@ -60,6 +60,8 @@ else:
 
 
 ### Output:
+![image](https://github.com/user-attachments/assets/482da0f8-91b0-456f-9e9e-39d236ec3340)
+
 
 
 
