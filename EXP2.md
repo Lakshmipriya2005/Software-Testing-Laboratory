@@ -91,6 +91,9 @@ else:
 
 
 ### Output:
+![image](https://github.com/user-attachments/assets/4b262d43-8dc4-4a90-83ce-320f28c05195)
+![image](https://github.com/user-attachments/assets/1c4b1f67-32cc-41fd-b964-0fd96d5333db)
+
 
 
 
