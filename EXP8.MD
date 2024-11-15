@@ -1,6 +1,6 @@
 # Ex.No: 9  Test cases for Banking Application
 
-### DATE:                                                                            
+### DATE: 11.10.24                                                                          
 ### REGISTER NUMBER : 212222040085
 ### AIM: 
 For Banking Applicationsystem study its system specifications and generate test cases.
